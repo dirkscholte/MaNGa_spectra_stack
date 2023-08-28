@@ -1,0 +1,1 @@
+# MaNGa_spectra_stack
