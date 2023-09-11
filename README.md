@@ -11,6 +11,6 @@ Galaxies are mapped using consecutive annulus regions at different distances to 
 
 The flux is computed by adding the flux from all of the spaxels inside of that region and the inverse variance from each spaxel is combined to obtain the total ivar. 
 
-We all wavelengths are in rest-frame and we provide a 'Redshift_file.csv' file, which contains the redshift values for the 25 galaxies. 
+We all wavelengths are provided in rest-frame and we also provide the redshift of each galaxy in the 'Redshift_file.csv' file. 
 
 Any questions regarding the files provided, please contact me on: msfr1@st-andrews.ac.uk.
